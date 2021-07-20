@@ -15,7 +15,7 @@ const Signature =()=> {
 
         return(
 
-            <div class="signature">{sign[signatureId]}</div>
+            <div className="signature">{sign[signatureId]}</div>
         );
 }
   
